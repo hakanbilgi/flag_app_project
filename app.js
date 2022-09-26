@@ -113,9 +113,5 @@ const renderCountries = (data) => {
   `;
 };
 
-
-
-
-
-fetchCountryByName("turkey");
+fetchCountryByName("usa");
 fetchCountryByAllName()
